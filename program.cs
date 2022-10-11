@@ -1,0 +1,2 @@
+Console.writeline
+Console.Printline
